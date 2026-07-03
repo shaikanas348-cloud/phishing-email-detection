@@ -18,9 +18,13 @@ A Machine Learning based Phishing Email Detection System built using Python, Fas
 
 ## Project Structure
 backend/
+
 webapp/
+
 models/
+
 training/
+
 data/
 
 ## Author
